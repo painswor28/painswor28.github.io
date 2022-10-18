@@ -257,12 +257,12 @@ sup {
 }
 
 a {
-  color: #387bf5;
+  color: #f53838;
   text-decoration: none;
 }
 
 a:hover {
-  color: #2d62c4;
+  color: #f53838;
   text-decoration: underline;
 }
 
@@ -9545,6 +9545,11 @@ fieldset:disabled .btn {
 .px-11 {
   padding-right: 15rem !important;
   padding-left: 15rem !important;
+}
+
+.px-12 {
+  padding-right: 25rem !important;
+  padding-left: 25rem !important;
 }
 
 .py-0 {
